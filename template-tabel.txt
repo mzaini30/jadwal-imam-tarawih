@@ -1,0 +1,5 @@
+Nomor WA Tujuan	Judul	Pesan	URL Gambar	Jadwal Kirim Pesan (WIB)	Pengulangan
+081234567890	Judul Pesan 1	Isi pesan WhatsApp di sini	https://example.com/image.jpg	2025-12-31 12:33:02	tiap pekan
+089876543210	Judul Pesan 2	Isi pesan kedua di sini			tiap bulan
++6281545143654	Tes	Halo\n\nHai		2020-01-01 00:00:00	
++6281545143654	Tes 2	Halo\nHai\n\nSemuanya…		2020-01-01 00:00:00	

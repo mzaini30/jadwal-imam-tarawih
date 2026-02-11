@@ -1,0 +1,2 @@
+Pada ./table.csv, itu ubah \\n menjadi \n dan hapus Enter di sebelum dan setelah \n
+Terus, ubah tanggalan berformat Indonesia. Jadi, bukan Wednesday, 18 February 2026 melainkan Rabu, 18 Februari 2026
